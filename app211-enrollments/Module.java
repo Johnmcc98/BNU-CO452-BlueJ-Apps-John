@@ -66,7 +66,7 @@ public class Module
     {
         //printHeading();
         
-        System.out.println(" Module Code: " + Code + ": " + Title);
+        System.out.println(" Module Code: " + Code + ": " + Title + "Credit Score: " + Credit);
         System.out.println();
     }
     
