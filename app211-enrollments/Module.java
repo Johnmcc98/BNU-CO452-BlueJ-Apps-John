@@ -66,19 +66,9 @@ public class Module
     {
         //printHeading();
         
-        System.out.println(" Module Code: " + Code + ": " + Title + "Credit Score: " + Credit);
+        System.out.println(" Module Code: " + Code + ": " + Title  +  " Credit Score:  " + Credit);
         System.out.println();
     }
     
-    /**
-     * An example of a method - replace this comment with your own
-     *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
-     */
-    public void Print()
-    {
-        // put your code here
-        
-    }
+    
 }
