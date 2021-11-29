@@ -14,7 +14,7 @@ public class Course
     private String code;
     // The full title including qualification and subject
     private String title;
-    //
+    // The module which belongs to the course
     private Module module;
     
     /**
@@ -54,8 +54,8 @@ public class Course
     }
     
       /**
-     * Print the details of the course, the list
-     * of students enrolled and the module
+     * Adds the module to the course.
+     * 
      */
     public void addModule (Module module)
     {

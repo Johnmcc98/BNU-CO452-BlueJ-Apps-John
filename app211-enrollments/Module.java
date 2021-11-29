@@ -23,7 +23,7 @@ public class Module
     }
     
     /**
-     * 
+     * Return the instance of the module code.
      */
     public String getCode()
     {
@@ -32,7 +32,7 @@ public class Module
     }
     
     /**
-     * 
+     * Return the instance of the module title.
      */
     public String getTitle()
     {
@@ -41,7 +41,7 @@ public class Module
     }
     
     /**
-     * 
+     * Return the instance of the credit value.
      */
     public int getCredit()
     {
@@ -50,7 +50,7 @@ public class Module
     }
     
     /**
-     * 
+     * Allows the user to set the credit of the module.
      */
     public void setCredit(int Credit)
     {
@@ -59,8 +59,7 @@ public class Module
     }
     
     /**
-     * Print the details of the course, the list
-     * of students enrolled and the module
+     * Print the details of the module including the module code, title and the credit score.
      */
     public void print()
     {
