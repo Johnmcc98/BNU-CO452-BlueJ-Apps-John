@@ -19,7 +19,7 @@ public class Module
        // initialise instance variables
        this.Code = Code;
        this.Title = Title;
-       Credit = 0;
+       Credit = 15;
     }
     
     /**
