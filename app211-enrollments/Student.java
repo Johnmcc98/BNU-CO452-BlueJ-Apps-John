@@ -4,6 +4,7 @@
  * concerning the course the student is currently enrolled on
  * 
  * @author Michael Kölling and David Barnes
+ * @author John McCormack
  * @modified by Derek Peacock and Nicholas Day
  * @version 2021:08:15
  */
